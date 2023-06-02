@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">RX Java Demo</string>
+    <string name="search_hint">Type Name to filter</string>
+</resources>
